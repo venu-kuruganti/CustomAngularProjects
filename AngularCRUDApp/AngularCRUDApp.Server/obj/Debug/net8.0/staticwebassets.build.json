@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "uOnIU9ySRGfWmha0K29bk7VwW3cTWyPQHB/qxrptIgI=",
+  "Source": "AngularCRUDApp.Server",
+  "BasePath": "_content/AngularCRUDApp.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\Venu\\Documents\\Custom Projects\\CustomAngularProjects\\AngularCRUDApp\\angularcrudapp.client\\angularcrudapp.client.esproj",
+      "Version": 2,
+      "Source": "angularcrudapp.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

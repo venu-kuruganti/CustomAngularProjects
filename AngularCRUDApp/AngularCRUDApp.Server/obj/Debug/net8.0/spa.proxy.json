@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:53103",
+"RedirectUrl": "",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "C:\\Users\\Venu\\Documents\\Custom Projects\\CustomAngularProjects\\AngularCRUDApp\\AngularCRUDApp.Server\\..\\angularcrudapp.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

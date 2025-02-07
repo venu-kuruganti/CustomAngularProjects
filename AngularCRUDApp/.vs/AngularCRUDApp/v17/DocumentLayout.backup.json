@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Venu\\Documents\\Custom Projects\\CustomAngularProjects\\AngularCRUDApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86CF2F1F-4EB5-48FD-91D5-561592C88996}|AngularCRUDApp.Server\\AngularCRUDApp.Server.csproj|c:\\users\\venu\\documents\\custom projects\\customangularprojects\\angularcrudapp\\angularcrudapp.server\\models\\audioitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86CF2F1F-4EB5-48FD-91D5-561592C88996}|AngularCRUDApp.Server\\AngularCRUDApp.Server.csproj|solutionrelative:angularcrudapp.server\\models\\audioitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86CF2F1F-4EB5-48FD-91D5-561592C88996}|AngularCRUDApp.Server\\AngularCRUDApp.Server.csproj|c:\\users\\venu\\documents\\custom projects\\customangularprojects\\angularcrudapp\\angularcrudapp.server\\controllers\\audioitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86CF2F1F-4EB5-48FD-91D5-561592C88996}|AngularCRUDApp.Server\\AngularCRUDApp.Server.csproj|solutionrelative:angularcrudapp.server\\controllers\\audioitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86CF2F1F-4EB5-48FD-91D5-561592C88996}|AngularCRUDApp.Server\\AngularCRUDApp.Server.csproj|c:\\users\\venu\\documents\\custom projects\\customangularprojects\\angularcrudapp\\angularcrudapp.server\\dbinterfaces\\classes\\audioitemsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86CF2F1F-4EB5-48FD-91D5-561592C88996}|AngularCRUDApp.Server\\AngularCRUDApp.Server.csproj|solutionrelative:angularcrudapp.server\\dbinterfaces\\classes\\audioitemsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86CF2F1F-4EB5-48FD-91D5-561592C88996}|AngularCRUDApp.Server\\AngularCRUDApp.Server.csproj|c:\\users\\venu\\documents\\custom projects\\customangularprojects\\angularcrudapp\\angularcrudapp.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86CF2F1F-4EB5-48FD-91D5-561592C88996}|AngularCRUDApp.Server\\AngularCRUDApp.Server.csproj|solutionrelative:angularcrudapp.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AudioItemsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Venu\\Documents\\Custom Projects\\CustomAngularProjects\\AngularCRUDApp\\AngularCRUDApp.Server\\DBInterfaces\\Classes\\AudioItemsRepository.cs",
+              "RelativeDocumentMoniker": "AngularCRUDApp.Server\\DBInterfaces\\Classes\\AudioItemsRepository.cs",
+              "ToolTip": "C:\\Users\\Venu\\Documents\\Custom Projects\\CustomAngularProjects\\AngularCRUDApp\\AngularCRUDApp.Server\\DBInterfaces\\Classes\\AudioItemsRepository.cs",
+              "RelativeToolTip": "AngularCRUDApp.Server\\DBInterfaces\\Classes\\AudioItemsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T14:54:20.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AudioItem.cs",
+              "DocumentMoniker": "C:\\Users\\Venu\\Documents\\Custom Projects\\CustomAngularProjects\\AngularCRUDApp\\AngularCRUDApp.Server\\Models\\AudioItem.cs",
+              "RelativeDocumentMoniker": "AngularCRUDApp.Server\\Models\\AudioItem.cs",
+              "ToolTip": "C:\\Users\\Venu\\Documents\\Custom Projects\\CustomAngularProjects\\AngularCRUDApp\\AngularCRUDApp.Server\\Models\\AudioItem.cs",
+              "RelativeToolTip": "AngularCRUDApp.Server\\Models\\AudioItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T14:53:27.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AudioItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\Venu\\Documents\\Custom Projects\\CustomAngularProjects\\AngularCRUDApp\\AngularCRUDApp.Server\\Controllers\\AudioItemsController.cs",
+              "RelativeDocumentMoniker": "AngularCRUDApp.Server\\Controllers\\AudioItemsController.cs",
+              "ToolTip": "C:\\Users\\Venu\\Documents\\Custom Projects\\CustomAngularProjects\\AngularCRUDApp\\AngularCRUDApp.Server\\Controllers\\AudioItemsController.cs",
+              "RelativeToolTip": "AngularCRUDApp.Server\\Controllers\\AudioItemsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T14:46:04.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Venu\\Documents\\Custom Projects\\CustomAngularProjects\\AngularCRUDApp\\AngularCRUDApp.Server\\Program.cs",
+              "RelativeDocumentMoniker": "AngularCRUDApp.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\Venu\\Documents\\Custom Projects\\CustomAngularProjects\\AngularCRUDApp\\AngularCRUDApp.Server\\Program.cs",
+              "RelativeToolTip": "AngularCRUDApp.Server\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvxcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T14:44:46.585Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
