@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Venu\\Documents\\Custom Projects\\CustomAngularProjects\\AngularCRUDApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{86CF2F1F-4EB5-48FD-91D5-561592C88996}|AngularCRUDApp.Server\\AngularCRUDApp.Server.csproj|c:\\users\\venu\\documents\\custom projects\\customangularprojects\\angularcrudapp\\angularcrudapp.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86CF2F1F-4EB5-48FD-91D5-561592C88996}|AngularCRUDApp.Server\\AngularCRUDApp.Server.csproj|solutionrelative:angularcrudapp.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D1470C50-AE48-490E-99F5-6601DC56503A}|angularcrudapp.client\\angularcrudapp.client.esproj|c:\\users\\venu\\documents\\custom projects\\customangularprojects\\angularcrudapp\\angularcrudapp.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{D1470C50-AE48-490E-99F5-6601DC56503A}|angularcrudapp.client\\angularcrudapp.client.esproj|solutionrelative:angularcrudapp.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{86CF2F1F-4EB5-48FD-91D5-561592C88996}|AngularCRUDApp.Server\\AngularCRUDApp.Server.csproj|c:\\users\\venu\\documents\\custom projects\\customangularprojects\\angularcrudapp\\angularcrudapp.server\\models\\audioitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86CF2F1F-4EB5-48FD-91D5-561592C88996}|AngularCRUDApp.Server\\AngularCRUDApp.Server.csproj|solutionrelative:angularcrudapp.server\\models\\audioitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D1470C50-AE48-490E-99F5-6601DC56503A}|angularcrudapp.client\\angularcrudapp.client.esproj|c:\\users\\venu\\documents\\custom projects\\customangularprojects\\angularcrudapp\\angularcrudapp.client\\src\\viewitems\\viewitems.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1470C50-AE48-490E-99F5-6601DC56503A}|angularcrudapp.client\\angularcrudapp.client.esproj|solutionrelative:angularcrudapp.client\\src\\viewitems\\viewitems.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{86CF2F1F-4EB5-48FD-91D5-561592C88996}|AngularCRUDApp.Server\\AngularCRUDApp.Server.csproj|c:\\users\\venu\\documents\\custom projects\\customangularprojects\\angularcrudapp\\angularcrudapp.server\\controllers\\audioitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86CF2F1F-4EB5-48FD-91D5-561592C88996}|AngularCRUDApp.Server\\AngularCRUDApp.Server.csproj|solutionrelative:angularcrudapp.server\\controllers\\audioitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D1470C50-AE48-490E-99F5-6601DC56503A}|angularcrudapp.client\\angularcrudapp.client.esproj|c:\\users\\venu\\documents\\custom projects\\customangularprojects\\angularcrudapp\\angularcrudapp.client\\src\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{D1470C50-AE48-490E-99F5-6601DC56503A}|angularcrudapp.client\\angularcrudapp.client.esproj|solutionrelative:angularcrudapp.client\\src\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{86CF2F1F-4EB5-48FD-91D5-561592C88996}|AngularCRUDApp.Server\\AngularCRUDApp.Server.csproj|c:\\users\\venu\\documents\\custom projects\\customangularprojects\\angularcrudapp\\angularcrudapp.server\\dbinterfaces\\classes\\audioitemsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86CF2F1F-4EB5-48FD-91D5-561592C88996}|AngularCRUDApp.Server\\AngularCRUDApp.Server.csproj|solutionrelative:angularcrudapp.server\\dbinterfaces\\classes\\audioitemsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D1470C50-AE48-490E-99F5-6601DC56503A}|angularcrudapp.client\\angularcrudapp.client.esproj|c:\\users\\venu\\documents\\custom projects\\customangularprojects\\angularcrudapp\\angularcrudapp.client\\src\\viewitems\\viewitems.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D1470C50-AE48-490E-99F5-6601DC56503A}|angularcrudapp.client\\angularcrudapp.client.esproj|solutionrelative:angularcrudapp.client\\src\\viewitems\\viewitems.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,59 +26,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AudioItemsRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Venu\\Documents\\Custom Projects\\CustomAngularProjects\\AngularCRUDApp\\AngularCRUDApp.Server\\DBInterfaces\\Classes\\AudioItemsRepository.cs",
-              "RelativeDocumentMoniker": "AngularCRUDApp.Server\\DBInterfaces\\Classes\\AudioItemsRepository.cs",
-              "ToolTip": "C:\\Users\\Venu\\Documents\\Custom Projects\\CustomAngularProjects\\AngularCRUDApp\\AngularCRUDApp.Server\\DBInterfaces\\Classes\\AudioItemsRepository.cs",
-              "RelativeToolTip": "AngularCRUDApp.Server\\DBInterfaces\\Classes\\AudioItemsRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T14:54:20.873Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AudioItem.cs",
-              "DocumentMoniker": "C:\\Users\\Venu\\Documents\\Custom Projects\\CustomAngularProjects\\AngularCRUDApp\\AngularCRUDApp.Server\\Models\\AudioItem.cs",
-              "RelativeDocumentMoniker": "AngularCRUDApp.Server\\Models\\AudioItem.cs",
-              "ToolTip": "C:\\Users\\Venu\\Documents\\Custom Projects\\CustomAngularProjects\\AngularCRUDApp\\AngularCRUDApp.Server\\Models\\AudioItem.cs",
-              "RelativeToolTip": "AngularCRUDApp.Server\\Models\\AudioItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwsAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T14:53:27.686Z",
+              "DocumentIndex": 0,
+              "Title": "app.module.ts",
+              "DocumentMoniker": "C:\\Users\\Venu\\Documents\\Custom Projects\\CustomAngularProjects\\AngularCRUDApp\\angularcrudapp.client\\src\\app\\app.module.ts",
+              "RelativeDocumentMoniker": "angularcrudapp.client\\src\\app\\app.module.ts",
+              "ToolTip": "C:\\Users\\Venu\\Documents\\Custom Projects\\CustomAngularProjects\\AngularCRUDApp\\angularcrudapp.client\\src\\app\\app.module.ts",
+              "RelativeToolTip": "angularcrudapp.client\\src\\app\\app.module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-11T11:29:30.271Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "AudioItemsController.cs",
-              "DocumentMoniker": "C:\\Users\\Venu\\Documents\\Custom Projects\\CustomAngularProjects\\AngularCRUDApp\\AngularCRUDApp.Server\\Controllers\\AudioItemsController.cs",
-              "RelativeDocumentMoniker": "AngularCRUDApp.Server\\Controllers\\AudioItemsController.cs",
-              "ToolTip": "C:\\Users\\Venu\\Documents\\Custom Projects\\CustomAngularProjects\\AngularCRUDApp\\AngularCRUDApp.Server\\Controllers\\AudioItemsController.cs",
-              "RelativeToolTip": "AngularCRUDApp.Server\\Controllers\\AudioItemsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T14:46:04.504Z",
-              "EditorCaption": ""
+              "Title": "app-routing.module.ts",
+              "DocumentMoniker": "C:\\Users\\Venu\\Documents\\Custom Projects\\CustomAngularProjects\\AngularCRUDApp\\angularcrudapp.client\\src\\app-routing.module.ts",
+              "RelativeDocumentMoniker": "angularcrudapp.client\\src\\app-routing.module.ts",
+              "ToolTip": "C:\\Users\\Venu\\Documents\\Custom Projects\\CustomAngularProjects\\AngularCRUDApp\\angularcrudapp.client\\src\\app-routing.module.ts",
+              "RelativeToolTip": "angularcrudapp.client\\src\\app-routing.module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-11T11:29:22.292Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Venu\\Documents\\Custom Projects\\CustomAngularProjects\\AngularCRUDApp\\AngularCRUDApp.Server\\Program.cs",
-              "RelativeDocumentMoniker": "AngularCRUDApp.Server\\Program.cs",
-              "ToolTip": "C:\\Users\\Venu\\Documents\\Custom Projects\\CustomAngularProjects\\AngularCRUDApp\\AngularCRUDApp.Server\\Program.cs",
-              "RelativeToolTip": "AngularCRUDApp.Server\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAADwvxcAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T14:44:46.585Z",
-              "EditorCaption": ""
+              "DocumentIndex": 1,
+              "Title": "viewitems.component.html",
+              "DocumentMoniker": "C:\\Users\\Venu\\Documents\\Custom Projects\\CustomAngularProjects\\AngularCRUDApp\\angularcrudapp.client\\src\\viewitems\\viewitems.component.html",
+              "RelativeDocumentMoniker": "angularcrudapp.client\\src\\viewitems\\viewitems.component.html",
+              "ToolTip": "C:\\Users\\Venu\\Documents\\Custom Projects\\CustomAngularProjects\\AngularCRUDApp\\angularcrudapp.client\\src\\viewitems\\viewitems.component.html",
+              "RelativeToolTip": "angularcrudapp.client\\src\\viewitems\\viewitems.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-11T11:26:14.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "viewitems.component.css",
+              "DocumentMoniker": "C:\\Users\\Venu\\Documents\\Custom Projects\\CustomAngularProjects\\AngularCRUDApp\\angularcrudapp.client\\src\\viewitems\\viewitems.component.css",
+              "RelativeDocumentMoniker": "angularcrudapp.client\\src\\viewitems\\viewitems.component.css",
+              "ToolTip": "C:\\Users\\Venu\\Documents\\Custom Projects\\CustomAngularProjects\\AngularCRUDApp\\angularcrudapp.client\\src\\viewitems\\viewitems.component.css",
+              "RelativeToolTip": "angularcrudapp.client\\src\\viewitems\\viewitems.component.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-11T11:26:12.806Z"
             }
           ]
         }

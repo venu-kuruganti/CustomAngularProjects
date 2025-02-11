@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AngularCRUDApp.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+15e650b0012188db1a2a353993fa31bcfe1383bc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+11851c3159cdb71a7cd56d81f7b27a82f8bc87d7")]
 [assembly: System.Reflection.AssemblyProductAttribute("AngularCRUDApp.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AngularCRUDApp.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
