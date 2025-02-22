@@ -22,20 +22,11 @@ namespace AudioItemsWebAPI.Controllers
             return await repository.AddAudioItem(item);
         }
 
-
         [HttpGet]
-        [Route("~/api/GetAudioItemsByName")]
-        public async Task<AudioItem> GetAudioItemByName(string name)
+        [Route("~/api/GetAudioItemDetailsById")]
+        public async Task<AudioItem> GetAudioItemDetailsById(int id)
         {
-            return await repository.GetAudioItemByIdOrName(null, name);
-        }
-
-
-        [HttpGet]
-        [Route("~/api/GetAudioItemsById")]
-        public async Task<AudioItem> GetAudioItemById(int id)
-        {
-            return await repository.GetAudioItemByIdOrName(id, string.Empty);
+            return await repository.GetAudioItemDetailsById(id);
         }
 
         [HttpPost]
@@ -44,8 +35,6 @@ namespace AudioItemsWebAPI.Controllers
         {
             return await repository.DeleteAudioItem(id);            
         }
-
-
 
     }
 }

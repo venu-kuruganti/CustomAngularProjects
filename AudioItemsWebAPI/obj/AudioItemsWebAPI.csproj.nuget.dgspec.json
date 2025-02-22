@@ -1,32 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Venu\\Documents\\Custom Projects\\CustomAngularProjects\\AudioItemsWebAPI\\AudioItemsWebAPI.csproj": {}
+    "/Users/venukuruganti/Documents/Custom Angular Projects/AudioItemsWebAPI/AudioItemsWebAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Venu\\Documents\\Custom Projects\\CustomAngularProjects\\AudioItemsWebAPI\\AudioItemsWebAPI.csproj": {
+    "/Users/venukuruganti/Documents/Custom Angular Projects/AudioItemsWebAPI/AudioItemsWebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Venu\\Documents\\Custom Projects\\CustomAngularProjects\\AudioItemsWebAPI\\AudioItemsWebAPI.csproj",
+        "projectUniqueName": "/Users/venukuruganti/Documents/Custom Angular Projects/AudioItemsWebAPI/AudioItemsWebAPI.csproj",
         "projectName": "AudioItemsWebAPI",
-        "projectPath": "C:\\Users\\Venu\\Documents\\Custom Projects\\CustomAngularProjects\\AudioItemsWebAPI\\AudioItemsWebAPI.csproj",
-        "packagesPath": "C:\\Users\\Venu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Venu\\Documents\\Custom Projects\\CustomAngularProjects\\AudioItemsWebAPI\\obj\\",
+        "projectPath": "/Users/venukuruganti/Documents/Custom Angular Projects/AudioItemsWebAPI/AudioItemsWebAPI.csproj",
+        "packagesPath": "/Users/venukuruganti/.nuget/packages/",
+        "outputPath": "/Users/venukuruganti/Documents/Custom Angular Projects/AudioItemsWebAPI/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Venu\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/venukuruganti/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
+          "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -39,13 +33,7 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -83,7 +71,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.103/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.406/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

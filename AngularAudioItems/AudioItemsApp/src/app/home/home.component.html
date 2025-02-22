@@ -1,0 +1,30 @@
+<h1>
+    Audio Items Website
+</h1>
+@if (AudioItems.length==0) {
+    <h3>No Items to display!</h3>
+}
+@else {
+    <table>
+        <thead>
+            <th>Id</th>
+            <th>Brand</th>
+            <th>Item Type</th>
+            <th>Name</th>
+            <th>Description</th>
+            <th>Price</th>    
+            <th></th>        
+        </thead>        
+    @for (item of AudioItems; track $index) {
+<tr>
+    <td>{{item.id}} </td>
+    <td>{{item.brand}} </td>
+    <td>{{item.itemType}} </td>
+    <td>{{item.name}} </td>
+    <td>{{item.description}} </td>
+    <td>{{item.price}} </td>
+    <td><a href="#" [routerLink]="['/details/', item.id]" routerLinkActive="router-link-active" >Details</a></td>
+</tr>
+    }
+</table>
+}

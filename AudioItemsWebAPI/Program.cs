@@ -16,7 +16,11 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddDbContext<AudioItemsContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("MyConnectionString")));
 builder.Services.AddScoped<IAudioItemsRepository, AudioItemsRepository>();
+builder.Services.AddCors();
+
 var app = builder.Build();
+
+app.UseCors(x => x.AllowAnyHeader().AllowAnyMethod().WithOrigins("http://localhost:4200"));
 
 app.UseDefaultFiles();
 app.UseStaticFiles();

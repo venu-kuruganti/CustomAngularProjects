@@ -10,6 +10,6 @@ namespace AudioItemsWebAPI.DBInterfaces.Interfaces
 
         Task<bool> DeleteAudioItem(int id);
 
-        Task<AudioItem> GetAudioItemByIdOrName(int? id = null, string? name = null);
+        Task<AudioItem> GetAudioItemDetailsById(int id);
     }
 }

@@ -1,91 +1,178 @@
-C:\Users\Venu\Documents\Custom Projects\CustomAngularProjects\AudioItemsWebAPI\obj\Debug\net8.0\AudioItemsWebAPI.csproj.AssemblyReference.cache
-C:\Users\Venu\Documents\Custom Projects\CustomAngularProjects\AudioItemsWebAPI\obj\Debug\net8.0\AudioItemsWebAPI.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Venu\Documents\Custom Projects\CustomAngularProjects\AudioItemsWebAPI\obj\Debug\net8.0\AudioItemsWebAPI.AssemblyInfoInputs.cache
-C:\Users\Venu\Documents\Custom Projects\CustomAngularProjects\AudioItemsWebAPI\obj\Debug\net8.0\AudioItemsWebAPI.AssemblyInfo.cs
-C:\Users\Venu\Documents\Custom Projects\CustomAngularProjects\AudioItemsWebAPI\obj\Debug\net8.0\AudioItemsWebAPI.csproj.CoreCompileInputs.cache
-C:\Users\Venu\Documents\Custom Projects\CustomAngularProjects\AudioItemsWebAPI\obj\Debug\net8.0\AudioItemsWebAPI.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Venu\Documents\Custom Projects\CustomAngularProjects\AudioItemsWebAPI\obj\Debug\net8.0\AudioItemsWebAPI.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Venu\Documents\Custom Projects\CustomAngularProjects\AudioItemsWebAPI\obj\Debug\net8.0\AudioItemsWebAPI.sourcelink.json
-C:\Users\Venu\Documents\Custom Projects\CustomAngularProjects\AudioItemsWebAPI\bin\Debug\net8.0\appsettings.Development.json
-C:\Users\Venu\Documents\Custom Projects\CustomAngularProjects\AudioItemsWebAPI\bin\Debug\net8.0\appsettings.json
-C:\Users\Venu\Documents\Custom Projects\CustomAngularProjects\AudioItemsWebAPI\bin\Debug\net8.0\AudioItemsWebAPI.staticwebassets.endpoints.json
-C:\Users\Venu\Documents\Custom Projects\CustomAngularProjects\AudioItemsWebAPI\bin\Debug\net8.0\AudioItemsWebAPI.exe
-C:\Users\Venu\Documents\Custom Projects\CustomAngularProjects\AudioItemsWebAPI\bin\Debug\net8.0\AudioItemsWebAPI.deps.json
-C:\Users\Venu\Documents\Custom Projects\CustomAngularProjects\AudioItemsWebAPI\bin\Debug\net8.0\AudioItemsWebAPI.runtimeconfig.json
-C:\Users\Venu\Documents\Custom Projects\CustomAngularProjects\AudioItemsWebAPI\bin\Debug\net8.0\AudioItemsWebAPI.dll
-C:\Users\Venu\Documents\Custom Projects\CustomAngularProjects\AudioItemsWebAPI\bin\Debug\net8.0\AudioItemsWebAPI.pdb
-C:\Users\Venu\Documents\Custom Projects\CustomAngularProjects\AudioItemsWebAPI\bin\Debug\net8.0\Azure.Core.dll
-C:\Users\Venu\Documents\Custom Projects\CustomAngularProjects\AudioItemsWebAPI\bin\Debug\net8.0\Azure.Identity.dll
-C:\Users\Venu\Documents\Custom Projects\CustomAngularProjects\AudioItemsWebAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Users\Venu\Documents\Custom Projects\CustomAngularProjects\AudioItemsWebAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
-C:\Users\Venu\Documents\Custom Projects\CustomAngularProjects\AudioItemsWebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\Venu\Documents\Custom Projects\CustomAngularProjects\AudioItemsWebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\Venu\Documents\Custom Projects\CustomAngularProjects\AudioItemsWebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\Venu\Documents\Custom Projects\CustomAngularProjects\AudioItemsWebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\Users\Venu\Documents\Custom Projects\CustomAngularProjects\AudioItemsWebAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
-C:\Users\Venu\Documents\Custom Projects\CustomAngularProjects\AudioItemsWebAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
-C:\Users\Venu\Documents\Custom Projects\CustomAngularProjects\AudioItemsWebAPI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
-C:\Users\Venu\Documents\Custom Projects\CustomAngularProjects\AudioItemsWebAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\Venu\Documents\Custom Projects\CustomAngularProjects\AudioItemsWebAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\Venu\Documents\Custom Projects\CustomAngularProjects\AudioItemsWebAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
-C:\Users\Venu\Documents\Custom Projects\CustomAngularProjects\AudioItemsWebAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Users\Venu\Documents\Custom Projects\CustomAngularProjects\AudioItemsWebAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
-C:\Users\Venu\Documents\Custom Projects\CustomAngularProjects\AudioItemsWebAPI\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
-C:\Users\Venu\Documents\Custom Projects\CustomAngularProjects\AudioItemsWebAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
-C:\Users\Venu\Documents\Custom Projects\CustomAngularProjects\AudioItemsWebAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
-C:\Users\Venu\Documents\Custom Projects\CustomAngularProjects\AudioItemsWebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
-C:\Users\Venu\Documents\Custom Projects\CustomAngularProjects\AudioItemsWebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\Venu\Documents\Custom Projects\CustomAngularProjects\AudioItemsWebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
-C:\Users\Venu\Documents\Custom Projects\CustomAngularProjects\AudioItemsWebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
-C:\Users\Venu\Documents\Custom Projects\CustomAngularProjects\AudioItemsWebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\Venu\Documents\Custom Projects\CustomAngularProjects\AudioItemsWebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\Venu\Documents\Custom Projects\CustomAngularProjects\AudioItemsWebAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
-C:\Users\Venu\Documents\Custom Projects\CustomAngularProjects\AudioItemsWebAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
-C:\Users\Venu\Documents\Custom Projects\CustomAngularProjects\AudioItemsWebAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\Venu\Documents\Custom Projects\CustomAngularProjects\AudioItemsWebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\Venu\Documents\Custom Projects\CustomAngularProjects\AudioItemsWebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\Venu\Documents\Custom Projects\CustomAngularProjects\AudioItemsWebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\Venu\Documents\Custom Projects\CustomAngularProjects\AudioItemsWebAPI\bin\Debug\net8.0\System.ClientModel.dll
-C:\Users\Venu\Documents\Custom Projects\CustomAngularProjects\AudioItemsWebAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
-C:\Users\Venu\Documents\Custom Projects\CustomAngularProjects\AudioItemsWebAPI\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
-C:\Users\Venu\Documents\Custom Projects\CustomAngularProjects\AudioItemsWebAPI\bin\Debug\net8.0\System.Drawing.Common.dll
-C:\Users\Venu\Documents\Custom Projects\CustomAngularProjects\AudioItemsWebAPI\bin\Debug\net8.0\System.Formats.Asn1.dll
-C:\Users\Venu\Documents\Custom Projects\CustomAngularProjects\AudioItemsWebAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\Venu\Documents\Custom Projects\CustomAngularProjects\AudioItemsWebAPI\bin\Debug\net8.0\System.IO.Pipelines.dll
-C:\Users\Venu\Documents\Custom Projects\CustomAngularProjects\AudioItemsWebAPI\bin\Debug\net8.0\System.Memory.Data.dll
-C:\Users\Venu\Documents\Custom Projects\CustomAngularProjects\AudioItemsWebAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
-C:\Users\Venu\Documents\Custom Projects\CustomAngularProjects\AudioItemsWebAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\Venu\Documents\Custom Projects\CustomAngularProjects\AudioItemsWebAPI\bin\Debug\net8.0\System.Security.Permissions.dll
-C:\Users\Venu\Documents\Custom Projects\CustomAngularProjects\AudioItemsWebAPI\bin\Debug\net8.0\System.Text.Encodings.Web.dll
-C:\Users\Venu\Documents\Custom Projects\CustomAngularProjects\AudioItemsWebAPI\bin\Debug\net8.0\System.Text.Json.dll
-C:\Users\Venu\Documents\Custom Projects\CustomAngularProjects\AudioItemsWebAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
-C:\Users\Venu\Documents\Custom Projects\CustomAngularProjects\AudioItemsWebAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
-C:\Users\Venu\Documents\Custom Projects\CustomAngularProjects\AudioItemsWebAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
-C:\Users\Venu\Documents\Custom Projects\CustomAngularProjects\AudioItemsWebAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\Venu\Documents\Custom Projects\CustomAngularProjects\AudioItemsWebAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\Venu\Documents\Custom Projects\CustomAngularProjects\AudioItemsWebAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\Venu\Documents\Custom Projects\CustomAngularProjects\AudioItemsWebAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\Venu\Documents\Custom Projects\CustomAngularProjects\AudioItemsWebAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\Venu\Documents\Custom Projects\CustomAngularProjects\AudioItemsWebAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
-C:\Users\Venu\Documents\Custom Projects\CustomAngularProjects\AudioItemsWebAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
-C:\Users\Venu\Documents\Custom Projects\CustomAngularProjects\AudioItemsWebAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
-C:\Users\Venu\Documents\Custom Projects\CustomAngularProjects\AudioItemsWebAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\Venu\Documents\Custom Projects\CustomAngularProjects\AudioItemsWebAPI\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
-C:\Users\Venu\Documents\Custom Projects\CustomAngularProjects\AudioItemsWebAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
-C:\Users\Venu\Documents\Custom Projects\CustomAngularProjects\AudioItemsWebAPI\obj\Debug\net8.0\scopedcss\bundle\AudioItemsWebAPI.styles.css
-C:\Users\Venu\Documents\Custom Projects\CustomAngularProjects\AudioItemsWebAPI\obj\Debug\net8.0\staticwebassets.build.json
-C:\Users\Venu\Documents\Custom Projects\CustomAngularProjects\AudioItemsWebAPI\obj\Debug\net8.0\staticwebassets.development.json
-C:\Users\Venu\Documents\Custom Projects\CustomAngularProjects\AudioItemsWebAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-C:\Users\Venu\Documents\Custom Projects\CustomAngularProjects\AudioItemsWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.AudioItemsWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\Venu\Documents\Custom Projects\CustomAngularProjects\AudioItemsWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.AudioItemsWebAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
-C:\Users\Venu\Documents\Custom Projects\CustomAngularProjects\AudioItemsWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.AudioItemsWebAPI.props
-C:\Users\Venu\Documents\Custom Projects\CustomAngularProjects\AudioItemsWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AudioItemsWebAPI.props
-C:\Users\Venu\Documents\Custom Projects\CustomAngularProjects\AudioItemsWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AudioItemsWebAPI.props
-C:\Users\Venu\Documents\Custom Projects\CustomAngularProjects\AudioItemsWebAPI\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\Venu\Documents\Custom Projects\CustomAngularProjects\AudioItemsWebAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
-C:\Users\Venu\Documents\Custom Projects\CustomAngularProjects\AudioItemsWebAPI\obj\Debug\net8.0\AudioIte.6B9052B0.Up2Date
-C:\Users\Venu\Documents\Custom Projects\CustomAngularProjects\AudioItemsWebAPI\obj\Debug\net8.0\AudioItemsWebAPI.dll
-C:\Users\Venu\Documents\Custom Projects\CustomAngularProjects\AudioItemsWebAPI\obj\Debug\net8.0\refint\AudioItemsWebAPI.dll
-C:\Users\Venu\Documents\Custom Projects\CustomAngularProjects\AudioItemsWebAPI\obj\Debug\net8.0\AudioItemsWebAPI.pdb
-C:\Users\Venu\Documents\Custom Projects\CustomAngularProjects\AudioItemsWebAPI\obj\Debug\net8.0\AudioItemsWebAPI.genruntimeconfig.cache
-C:\Users\Venu\Documents\Custom Projects\CustomAngularProjects\AudioItemsWebAPI\obj\Debug\net8.0\ref\AudioItemsWebAPI.dll
+C:/Users/Venu/Documents/Custom Projects/CustomAngularProjects/AudioItemsWebAPI/obj/Debug/net8.0/AudioItemsWebAPI.csproj.AssemblyReference.cache
+C:/Users/Venu/Documents/Custom Projects/CustomAngularProjects/AudioItemsWebAPI/obj/Debug/net8.0/AudioItemsWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Venu/Documents/Custom Projects/CustomAngularProjects/AudioItemsWebAPI/obj/Debug/net8.0/AudioItemsWebAPI.AssemblyInfoInputs.cache
+C:/Users/Venu/Documents/Custom Projects/CustomAngularProjects/AudioItemsWebAPI/obj/Debug/net8.0/AudioItemsWebAPI.AssemblyInfo.cs
+C:/Users/Venu/Documents/Custom Projects/CustomAngularProjects/AudioItemsWebAPI/obj/Debug/net8.0/AudioItemsWebAPI.csproj.CoreCompileInputs.cache
+C:/Users/Venu/Documents/Custom Projects/CustomAngularProjects/AudioItemsWebAPI/obj/Debug/net8.0/AudioItemsWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/Venu/Documents/Custom Projects/CustomAngularProjects/AudioItemsWebAPI/obj/Debug/net8.0/AudioItemsWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Venu/Documents/Custom Projects/CustomAngularProjects/AudioItemsWebAPI/obj/Debug/net8.0/AudioItemsWebAPI.sourcelink.json
+C:/Users/Venu/Documents/Custom Projects/CustomAngularProjects/AudioItemsWebAPI/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/Venu/Documents/Custom Projects/CustomAngularProjects/AudioItemsWebAPI/bin/Debug/net8.0/appsettings.json
+C:/Users/Venu/Documents/Custom Projects/CustomAngularProjects/AudioItemsWebAPI/bin/Debug/net8.0/AudioItemsWebAPI.staticwebassets.endpoints.json
+C:/Users/Venu/Documents/Custom Projects/CustomAngularProjects/AudioItemsWebAPI/bin/Debug/net8.0/AudioItemsWebAPI.exe
+C:/Users/Venu/Documents/Custom Projects/CustomAngularProjects/AudioItemsWebAPI/bin/Debug/net8.0/AudioItemsWebAPI.deps.json
+C:/Users/Venu/Documents/Custom Projects/CustomAngularProjects/AudioItemsWebAPI/bin/Debug/net8.0/AudioItemsWebAPI.runtimeconfig.json
+C:/Users/Venu/Documents/Custom Projects/CustomAngularProjects/AudioItemsWebAPI/bin/Debug/net8.0/AudioItemsWebAPI.dll
+C:/Users/Venu/Documents/Custom Projects/CustomAngularProjects/AudioItemsWebAPI/bin/Debug/net8.0/AudioItemsWebAPI.pdb
+C:/Users/Venu/Documents/Custom Projects/CustomAngularProjects/AudioItemsWebAPI/bin/Debug/net8.0/Azure.Core.dll
+C:/Users/Venu/Documents/Custom Projects/CustomAngularProjects/AudioItemsWebAPI/bin/Debug/net8.0/Azure.Identity.dll
+C:/Users/Venu/Documents/Custom Projects/CustomAngularProjects/AudioItemsWebAPI/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/Venu/Documents/Custom Projects/CustomAngularProjects/AudioItemsWebAPI/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+C:/Users/Venu/Documents/Custom Projects/CustomAngularProjects/AudioItemsWebAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/Venu/Documents/Custom Projects/CustomAngularProjects/AudioItemsWebAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/Venu/Documents/Custom Projects/CustomAngularProjects/AudioItemsWebAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/Venu/Documents/Custom Projects/CustomAngularProjects/AudioItemsWebAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/Venu/Documents/Custom Projects/CustomAngularProjects/AudioItemsWebAPI/bin/Debug/net8.0/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/Venu/Documents/Custom Projects/CustomAngularProjects/AudioItemsWebAPI/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/Venu/Documents/Custom Projects/CustomAngularProjects/AudioItemsWebAPI/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/Venu/Documents/Custom Projects/CustomAngularProjects/AudioItemsWebAPI/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/Venu/Documents/Custom Projects/CustomAngularProjects/AudioItemsWebAPI/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/Venu/Documents/Custom Projects/CustomAngularProjects/AudioItemsWebAPI/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+C:/Users/Venu/Documents/Custom Projects/CustomAngularProjects/AudioItemsWebAPI/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/Venu/Documents/Custom Projects/CustomAngularProjects/AudioItemsWebAPI/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+C:/Users/Venu/Documents/Custom Projects/CustomAngularProjects/AudioItemsWebAPI/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+C:/Users/Venu/Documents/Custom Projects/CustomAngularProjects/AudioItemsWebAPI/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+C:/Users/Venu/Documents/Custom Projects/CustomAngularProjects/AudioItemsWebAPI/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+C:/Users/Venu/Documents/Custom Projects/CustomAngularProjects/AudioItemsWebAPI/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/Venu/Documents/Custom Projects/CustomAngularProjects/AudioItemsWebAPI/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/Venu/Documents/Custom Projects/CustomAngularProjects/AudioItemsWebAPI/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/Venu/Documents/Custom Projects/CustomAngularProjects/AudioItemsWebAPI/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/Venu/Documents/Custom Projects/CustomAngularProjects/AudioItemsWebAPI/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/Venu/Documents/Custom Projects/CustomAngularProjects/AudioItemsWebAPI/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/Venu/Documents/Custom Projects/CustomAngularProjects/AudioItemsWebAPI/bin/Debug/net8.0/Microsoft.OpenApi.dll
+C:/Users/Venu/Documents/Custom Projects/CustomAngularProjects/AudioItemsWebAPI/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+C:/Users/Venu/Documents/Custom Projects/CustomAngularProjects/AudioItemsWebAPI/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Venu/Documents/Custom Projects/CustomAngularProjects/AudioItemsWebAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/Venu/Documents/Custom Projects/CustomAngularProjects/AudioItemsWebAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/Venu/Documents/Custom Projects/CustomAngularProjects/AudioItemsWebAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/Venu/Documents/Custom Projects/CustomAngularProjects/AudioItemsWebAPI/bin/Debug/net8.0/System.ClientModel.dll
+C:/Users/Venu/Documents/Custom Projects/CustomAngularProjects/AudioItemsWebAPI/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+C:/Users/Venu/Documents/Custom Projects/CustomAngularProjects/AudioItemsWebAPI/bin/Debug/net8.0/System.Diagnostics.DiagnosticSource.dll
+C:/Users/Venu/Documents/Custom Projects/CustomAngularProjects/AudioItemsWebAPI/bin/Debug/net8.0/System.Drawing.Common.dll
+C:/Users/Venu/Documents/Custom Projects/CustomAngularProjects/AudioItemsWebAPI/bin/Debug/net8.0/System.Formats.Asn1.dll
+C:/Users/Venu/Documents/Custom Projects/CustomAngularProjects/AudioItemsWebAPI/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/Venu/Documents/Custom Projects/CustomAngularProjects/AudioItemsWebAPI/bin/Debug/net8.0/System.IO.Pipelines.dll
+C:/Users/Venu/Documents/Custom Projects/CustomAngularProjects/AudioItemsWebAPI/bin/Debug/net8.0/System.Memory.Data.dll
+C:/Users/Venu/Documents/Custom Projects/CustomAngularProjects/AudioItemsWebAPI/bin/Debug/net8.0/System.Runtime.Caching.dll
+C:/Users/Venu/Documents/Custom Projects/CustomAngularProjects/AudioItemsWebAPI/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Venu/Documents/Custom Projects/CustomAngularProjects/AudioItemsWebAPI/bin/Debug/net8.0/System.Security.Permissions.dll
+C:/Users/Venu/Documents/Custom Projects/CustomAngularProjects/AudioItemsWebAPI/bin/Debug/net8.0/System.Text.Encodings.Web.dll
+C:/Users/Venu/Documents/Custom Projects/CustomAngularProjects/AudioItemsWebAPI/bin/Debug/net8.0/System.Text.Json.dll
+C:/Users/Venu/Documents/Custom Projects/CustomAngularProjects/AudioItemsWebAPI/bin/Debug/net8.0/System.Windows.Extensions.dll
+C:/Users/Venu/Documents/Custom Projects/CustomAngularProjects/AudioItemsWebAPI/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/Venu/Documents/Custom Projects/CustomAngularProjects/AudioItemsWebAPI/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/Venu/Documents/Custom Projects/CustomAngularProjects/AudioItemsWebAPI/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Venu/Documents/Custom Projects/CustomAngularProjects/AudioItemsWebAPI/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Venu/Documents/Custom Projects/CustomAngularProjects/AudioItemsWebAPI/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Venu/Documents/Custom Projects/CustomAngularProjects/AudioItemsWebAPI/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Venu/Documents/Custom Projects/CustomAngularProjects/AudioItemsWebAPI/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Venu/Documents/Custom Projects/CustomAngularProjects/AudioItemsWebAPI/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+C:/Users/Venu/Documents/Custom Projects/CustomAngularProjects/AudioItemsWebAPI/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+C:/Users/Venu/Documents/Custom Projects/CustomAngularProjects/AudioItemsWebAPI/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+C:/Users/Venu/Documents/Custom Projects/CustomAngularProjects/AudioItemsWebAPI/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Venu/Documents/Custom Projects/CustomAngularProjects/AudioItemsWebAPI/bin/Debug/net8.0/runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll
+C:/Users/Venu/Documents/Custom Projects/CustomAngularProjects/AudioItemsWebAPI/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+C:/Users/Venu/Documents/Custom Projects/CustomAngularProjects/AudioItemsWebAPI/obj/Debug/net8.0/scopedcss/bundle/AudioItemsWebAPI.styles.css
+C:/Users/Venu/Documents/Custom Projects/CustomAngularProjects/AudioItemsWebAPI/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/Venu/Documents/Custom Projects/CustomAngularProjects/AudioItemsWebAPI/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/Venu/Documents/Custom Projects/CustomAngularProjects/AudioItemsWebAPI/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+C:/Users/Venu/Documents/Custom Projects/CustomAngularProjects/AudioItemsWebAPI/obj/Debug/net8.0/staticwebassets/msbuild.AudioItemsWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/Venu/Documents/Custom Projects/CustomAngularProjects/AudioItemsWebAPI/obj/Debug/net8.0/staticwebassets/msbuild.AudioItemsWebAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:/Users/Venu/Documents/Custom Projects/CustomAngularProjects/AudioItemsWebAPI/obj/Debug/net8.0/staticwebassets/msbuild.build.AudioItemsWebAPI.props
+C:/Users/Venu/Documents/Custom Projects/CustomAngularProjects/AudioItemsWebAPI/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.AudioItemsWebAPI.props
+C:/Users/Venu/Documents/Custom Projects/CustomAngularProjects/AudioItemsWebAPI/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.AudioItemsWebAPI.props
+C:/Users/Venu/Documents/Custom Projects/CustomAngularProjects/AudioItemsWebAPI/obj/Debug/net8.0/staticwebassets.pack.json
+C:/Users/Venu/Documents/Custom Projects/CustomAngularProjects/AudioItemsWebAPI/obj/Debug/net8.0/staticwebassets.upToDateCheck.txt
+C:/Users/Venu/Documents/Custom Projects/CustomAngularProjects/AudioItemsWebAPI/obj/Debug/net8.0/AudioIte.6B9052B0.Up2Date
+C:/Users/Venu/Documents/Custom Projects/CustomAngularProjects/AudioItemsWebAPI/obj/Debug/net8.0/AudioItemsWebAPI.dll
+C:/Users/Venu/Documents/Custom Projects/CustomAngularProjects/AudioItemsWebAPI/obj/Debug/net8.0/refint/AudioItemsWebAPI.dll
+C:/Users/Venu/Documents/Custom Projects/CustomAngularProjects/AudioItemsWebAPI/obj/Debug/net8.0/AudioItemsWebAPI.pdb
+C:/Users/Venu/Documents/Custom Projects/CustomAngularProjects/AudioItemsWebAPI/obj/Debug/net8.0/AudioItemsWebAPI.genruntimeconfig.cache
+C:/Users/Venu/Documents/Custom Projects/CustomAngularProjects/AudioItemsWebAPI/obj/Debug/net8.0/ref/AudioItemsWebAPI.dll
+/Users/venukuruganti/Documents/Custom Angular Projects/AudioItemsWebAPI/bin/Debug/net8.0/appsettings.Development.json
+/Users/venukuruganti/Documents/Custom Angular Projects/AudioItemsWebAPI/bin/Debug/net8.0/appsettings.json
+/Users/venukuruganti/Documents/Custom Angular Projects/AudioItemsWebAPI/bin/Debug/net8.0/AudioItemsWebAPI
+/Users/venukuruganti/Documents/Custom Angular Projects/AudioItemsWebAPI/bin/Debug/net8.0/AudioItemsWebAPI.deps.json
+/Users/venukuruganti/Documents/Custom Angular Projects/AudioItemsWebAPI/bin/Debug/net8.0/AudioItemsWebAPI.runtimeconfig.json
+/Users/venukuruganti/Documents/Custom Angular Projects/AudioItemsWebAPI/bin/Debug/net8.0/AudioItemsWebAPI.dll
+/Users/venukuruganti/Documents/Custom Angular Projects/AudioItemsWebAPI/bin/Debug/net8.0/AudioItemsWebAPI.pdb
+/Users/venukuruganti/Documents/Custom Angular Projects/AudioItemsWebAPI/bin/Debug/net8.0/Azure.Core.dll
+/Users/venukuruganti/Documents/Custom Angular Projects/AudioItemsWebAPI/bin/Debug/net8.0/Azure.Identity.dll
+/Users/venukuruganti/Documents/Custom Angular Projects/AudioItemsWebAPI/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/venukuruganti/Documents/Custom Angular Projects/AudioItemsWebAPI/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+/Users/venukuruganti/Documents/Custom Angular Projects/AudioItemsWebAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/venukuruganti/Documents/Custom Angular Projects/AudioItemsWebAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/venukuruganti/Documents/Custom Angular Projects/AudioItemsWebAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/venukuruganti/Documents/Custom Angular Projects/AudioItemsWebAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/venukuruganti/Documents/Custom Angular Projects/AudioItemsWebAPI/bin/Debug/net8.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/venukuruganti/Documents/Custom Angular Projects/AudioItemsWebAPI/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/venukuruganti/Documents/Custom Angular Projects/AudioItemsWebAPI/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/venukuruganti/Documents/Custom Angular Projects/AudioItemsWebAPI/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/venukuruganti/Documents/Custom Angular Projects/AudioItemsWebAPI/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/venukuruganti/Documents/Custom Angular Projects/AudioItemsWebAPI/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+/Users/venukuruganti/Documents/Custom Angular Projects/AudioItemsWebAPI/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/venukuruganti/Documents/Custom Angular Projects/AudioItemsWebAPI/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/Users/venukuruganti/Documents/Custom Angular Projects/AudioItemsWebAPI/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+/Users/venukuruganti/Documents/Custom Angular Projects/AudioItemsWebAPI/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+/Users/venukuruganti/Documents/Custom Angular Projects/AudioItemsWebAPI/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/venukuruganti/Documents/Custom Angular Projects/AudioItemsWebAPI/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/venukuruganti/Documents/Custom Angular Projects/AudioItemsWebAPI/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/venukuruganti/Documents/Custom Angular Projects/AudioItemsWebAPI/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/Users/venukuruganti/Documents/Custom Angular Projects/AudioItemsWebAPI/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/Users/venukuruganti/Documents/Custom Angular Projects/AudioItemsWebAPI/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/venukuruganti/Documents/Custom Angular Projects/AudioItemsWebAPI/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/Users/venukuruganti/Documents/Custom Angular Projects/AudioItemsWebAPI/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/venukuruganti/Documents/Custom Angular Projects/AudioItemsWebAPI/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+/Users/venukuruganti/Documents/Custom Angular Projects/AudioItemsWebAPI/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+/Users/venukuruganti/Documents/Custom Angular Projects/AudioItemsWebAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/venukuruganti/Documents/Custom Angular Projects/AudioItemsWebAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/venukuruganti/Documents/Custom Angular Projects/AudioItemsWebAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/venukuruganti/Documents/Custom Angular Projects/AudioItemsWebAPI/bin/Debug/net8.0/System.ClientModel.dll
+/Users/venukuruganti/Documents/Custom Angular Projects/AudioItemsWebAPI/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+/Users/venukuruganti/Documents/Custom Angular Projects/AudioItemsWebAPI/bin/Debug/net8.0/System.Diagnostics.DiagnosticSource.dll
+/Users/venukuruganti/Documents/Custom Angular Projects/AudioItemsWebAPI/bin/Debug/net8.0/System.Drawing.Common.dll
+/Users/venukuruganti/Documents/Custom Angular Projects/AudioItemsWebAPI/bin/Debug/net8.0/System.Formats.Asn1.dll
+/Users/venukuruganti/Documents/Custom Angular Projects/AudioItemsWebAPI/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/venukuruganti/Documents/Custom Angular Projects/AudioItemsWebAPI/bin/Debug/net8.0/System.IO.Pipelines.dll
+/Users/venukuruganti/Documents/Custom Angular Projects/AudioItemsWebAPI/bin/Debug/net8.0/System.Memory.Data.dll
+/Users/venukuruganti/Documents/Custom Angular Projects/AudioItemsWebAPI/bin/Debug/net8.0/System.Runtime.Caching.dll
+/Users/venukuruganti/Documents/Custom Angular Projects/AudioItemsWebAPI/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+/Users/venukuruganti/Documents/Custom Angular Projects/AudioItemsWebAPI/bin/Debug/net8.0/System.Security.Permissions.dll
+/Users/venukuruganti/Documents/Custom Angular Projects/AudioItemsWebAPI/bin/Debug/net8.0/System.Text.Encodings.Web.dll
+/Users/venukuruganti/Documents/Custom Angular Projects/AudioItemsWebAPI/bin/Debug/net8.0/System.Text.Json.dll
+/Users/venukuruganti/Documents/Custom Angular Projects/AudioItemsWebAPI/bin/Debug/net8.0/System.Windows.Extensions.dll
+/Users/venukuruganti/Documents/Custom Angular Projects/AudioItemsWebAPI/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/venukuruganti/Documents/Custom Angular Projects/AudioItemsWebAPI/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/venukuruganti/Documents/Custom Angular Projects/AudioItemsWebAPI/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/venukuruganti/Documents/Custom Angular Projects/AudioItemsWebAPI/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/venukuruganti/Documents/Custom Angular Projects/AudioItemsWebAPI/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/venukuruganti/Documents/Custom Angular Projects/AudioItemsWebAPI/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/venukuruganti/Documents/Custom Angular Projects/AudioItemsWebAPI/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/venukuruganti/Documents/Custom Angular Projects/AudioItemsWebAPI/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/venukuruganti/Documents/Custom Angular Projects/AudioItemsWebAPI/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/venukuruganti/Documents/Custom Angular Projects/AudioItemsWebAPI/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/venukuruganti/Documents/Custom Angular Projects/AudioItemsWebAPI/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/venukuruganti/Documents/Custom Angular Projects/AudioItemsWebAPI/bin/Debug/net8.0/runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll
+/Users/venukuruganti/Documents/Custom Angular Projects/AudioItemsWebAPI/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/venukuruganti/Documents/Custom Angular Projects/AudioItemsWebAPI/obj/Debug/net8.0/AudioItemsWebAPI.csproj.AssemblyReference.cache
+/Users/venukuruganti/Documents/Custom Angular Projects/AudioItemsWebAPI/obj/Debug/net8.0/AudioItemsWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/venukuruganti/Documents/Custom Angular Projects/AudioItemsWebAPI/obj/Debug/net8.0/AudioItemsWebAPI.AssemblyInfoInputs.cache
+/Users/venukuruganti/Documents/Custom Angular Projects/AudioItemsWebAPI/obj/Debug/net8.0/AudioItemsWebAPI.AssemblyInfo.cs
+/Users/venukuruganti/Documents/Custom Angular Projects/AudioItemsWebAPI/obj/Debug/net8.0/AudioItemsWebAPI.csproj.CoreCompileInputs.cache
+/Users/venukuruganti/Documents/Custom Angular Projects/AudioItemsWebAPI/obj/Debug/net8.0/AudioItemsWebAPI.MvcApplicationPartsAssemblyInfo.cs
+/Users/venukuruganti/Documents/Custom Angular Projects/AudioItemsWebAPI/obj/Debug/net8.0/AudioItemsWebAPI.MvcApplicationPartsAssemblyInfo.cache
+/Users/venukuruganti/Documents/Custom Angular Projects/AudioItemsWebAPI/obj/Debug/net8.0/AudioItemsWebAPI.sourcelink.json
+/Users/venukuruganti/Documents/Custom Angular Projects/AudioItemsWebAPI/obj/Debug/net8.0/staticwebassets.build.json
+/Users/venukuruganti/Documents/Custom Angular Projects/AudioItemsWebAPI/obj/Debug/net8.0/staticwebassets.development.json
+/Users/venukuruganti/Documents/Custom Angular Projects/AudioItemsWebAPI/obj/Debug/net8.0/staticwebassets/msbuild.AudioItemsWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/venukuruganti/Documents/Custom Angular Projects/AudioItemsWebAPI/obj/Debug/net8.0/staticwebassets/msbuild.build.AudioItemsWebAPI.props
+/Users/venukuruganti/Documents/Custom Angular Projects/AudioItemsWebAPI/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.AudioItemsWebAPI.props
+/Users/venukuruganti/Documents/Custom Angular Projects/AudioItemsWebAPI/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.AudioItemsWebAPI.props
+/Users/venukuruganti/Documents/Custom Angular Projects/AudioItemsWebAPI/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/venukuruganti/Documents/Custom Angular Projects/AudioItemsWebAPI/obj/Debug/net8.0/scopedcss/bundle/AudioItemsWebAPI.styles.css
+/Users/venukuruganti/Documents/Custom Angular Projects/AudioItemsWebAPI/obj/Debug/net8.0/AudioIte.6B9052B0.Up2Date
+/Users/venukuruganti/Documents/Custom Angular Projects/AudioItemsWebAPI/obj/Debug/net8.0/AudioItemsWebAPI.dll
+/Users/venukuruganti/Documents/Custom Angular Projects/AudioItemsWebAPI/obj/Debug/net8.0/refint/AudioItemsWebAPI.dll
+/Users/venukuruganti/Documents/Custom Angular Projects/AudioItemsWebAPI/obj/Debug/net8.0/AudioItemsWebAPI.pdb
+/Users/venukuruganti/Documents/Custom Angular Projects/AudioItemsWebAPI/obj/Debug/net8.0/AudioItemsWebAPI.genruntimeconfig.cache
+/Users/venukuruganti/Documents/Custom Angular Projects/AudioItemsWebAPI/obj/Debug/net8.0/ref/AudioItemsWebAPI.dll

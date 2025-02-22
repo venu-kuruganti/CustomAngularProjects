@@ -1,0 +1,7 @@
+/Users/venukuruganti/Documents/Custom Angular Projects/AudioItemsWebAPI/obj/Debug/net6.0/AudioItemsWebAPI.csproj.AssemblyReference.cache
+/Users/venukuruganti/Documents/Custom Angular Projects/AudioItemsWebAPI/obj/Debug/net6.0/AudioItemsWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/venukuruganti/Documents/Custom Angular Projects/AudioItemsWebAPI/obj/Debug/net6.0/AudioItemsWebAPI.AssemblyInfoInputs.cache
+/Users/venukuruganti/Documents/Custom Angular Projects/AudioItemsWebAPI/obj/Debug/net6.0/AudioItemsWebAPI.AssemblyInfo.cs
+/Users/venukuruganti/Documents/Custom Angular Projects/AudioItemsWebAPI/obj/Debug/net6.0/AudioItemsWebAPI.csproj.CoreCompileInputs.cache
+/Users/venukuruganti/Documents/Custom Angular Projects/AudioItemsWebAPI/obj/Debug/net6.0/AudioItemsWebAPI.MvcApplicationPartsAssemblyInfo.cs
+/Users/venukuruganti/Documents/Custom Angular Projects/AudioItemsWebAPI/obj/Debug/net6.0/AudioItemsWebAPI.MvcApplicationPartsAssemblyInfo.cache

@@ -1,12 +1,11 @@
 {
   "Version": 1,
-  "Hash": "kDsQV1TKQwZt2KtHXZriPFwkabVR5GMV7gO5skmmPs0=",
+  "Hash": "amniVoGIEPxwmAz4myOUz6p7wGK3Q6uG2U/PuAigruY=",
   "Source": "AudioItemsWebAPI",
   "BasePath": "_content/AudioItemsWebAPI",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": [],
-  "Endpoints": []
+  "Assets": []
 }

@@ -28,20 +28,9 @@ namespace AudioItemsWebAPI.DBInterfaces.Classes
                 throw new ApplicationException("Not Found");
             }
         }
-
-        public async Task<AudioItem> GetAudioItemByIdOrName(int? id = null, string? name = null)
+        public async Task<AudioItem> GetAudioItemDetailsById(int id)
         {
-            AudioItem item;
-
-            if (id != null)
-            {
-                return await context.AudioItems.Where(item => item.Id == id!).FirstOrDefaultAsync();
-               
-            }
-            else
-            {
-                return await context.AudioItems.Where(item => item.Name == name!).FirstOrDefaultAsync();
-            }
+            return await context.AudioItems.Where(item => item.Id == id).FirstOrDefaultAsync();
         }
 
         public async Task<List<AudioItem>> GetAudioItems()
