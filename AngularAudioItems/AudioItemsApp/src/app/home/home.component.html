@@ -5,14 +5,14 @@
     <h3>No Items to display!</h3>
 }
 @else {
-    <table>
+    <table class="table table-striped table-primary table-hover table-bordered border-primary">
         <thead>
-            <th>Id</th>
-            <th>Brand</th>
-            <th>Item Type</th>
-            <th>Name</th>
-            <th>Description</th>
-            <th>Price</th>    
+            <th scope="col">Id</th>
+            <th scope="col">Brand</th>
+            <th scope="col">Item Type</th>
+            <th scope="col">Name</th>
+            <th scope="col">Description</th>
+            <th scope="col">Price</th>    
             <th></th>        
         </thead>        
     @for (item of AudioItems; track $index) {
@@ -23,7 +23,7 @@
     <td>{{item.name}} </td>
     <td>{{item.description}} </td>
     <td>{{item.price}} </td>
-    <td><a href="#" [routerLink]="['/details/', item.id]" routerLinkActive="router-link-active" >Details</a></td>
+    <td><a href="#" [routerLink]="['/details/', item.id]" routerLinkActive="router-link-active" class="link-primary" >Details</a></td>
 </tr>
     }
 </table>
