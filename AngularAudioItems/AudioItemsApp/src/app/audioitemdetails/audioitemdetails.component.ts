@@ -1,6 +1,6 @@
 import { Component, inject, Input, input, OnInit } from '@angular/core';
-import { AudioItem } from '../app/_models/AudioItem';
-import { AudioItemsService } from '../app/_services/audioitemsservice.service';
+import { AudioItem } from '../_models/AudioItem';
+import { AudioItemsService } from '../_services/audioitemsservice.service';
 import { ActivatedRoute } from '@angular/router';
 
 @Component({

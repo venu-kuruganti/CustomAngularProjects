@@ -3,11 +3,22 @@
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.AudioItemsWebAPI PreferredExecutionTarget="/Applications/Firefox.app" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Helpers/ItemTypeEnum.cs">
+    <Files>
+      <File FileName="Controllers/AudioItemsController.cs" Line="19" Column="41" />
+      <File FileName="Helpers/ItemTypeEnum.cs" Line="7" Column="14" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="AudioItemsWebAPI" selected="True" />
+          <Node name="AudioItemsWebAPI">
+            <Node name="AudioItemsWebAPI" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Helpers" expanded="True">
+                <Node name="ItemTypeEnum.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
         </State>
       </Pad>
     </Pads>

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AudioItemsWebAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3377a3711089def0483bacb97b7eb76c06802f55")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4db345d38e7fbbd8e5ca049cdfde3ffb5b260eae")]
 [assembly: System.Reflection.AssemblyProductAttribute("AudioItemsWebAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AudioItemsWebAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
