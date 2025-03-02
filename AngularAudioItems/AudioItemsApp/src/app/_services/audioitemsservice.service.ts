@@ -26,8 +26,8 @@ export class AudioItemsService {
 
   addNewAudioItem(item: AudioItem) {
 
-    console.log("in addNewAudioItem");
-    console.log("Model is : " + item);
+    
+    console.log(`Model is : ${item}`);
 
     const httpOptions = {
       headers: new HttpHeaders({
@@ -35,19 +35,13 @@ export class AudioItemsService {
       })
     };
 
-    console.log("calling http.post");
+    console.log("calling http.post");       
 
-    const newUrl = this.baseUrl + 'AddNewAudioItem';
-console.log( "Api url : " + newUrl);
-
-    return this.http.post<AudioItem>(newUrl, item, httpOptions)
-      .pipe(catchError((error: any, caught: Observable<any>): Observable<any> => {
-        console.error('There was an error!', error);
-
-        // after handling error, return a new observable 
-        // that doesn't emit any values and completes
-        return of();
-      }));
+     this.http.post<AudioItem>(`${this.baseUrl}AddNewAudioItem`, item, httpOptions)
+    .subscribe({
+      next: response=> { console.log("Successfully called post! Completed!") },
+      error: err=> console.error(err)
+    });     
   }
 
   constructor() { }

@@ -1,37 +1,35 @@
 <h3>Add New Item</h3>
-<div class="container border border-dark border-2 rounded rounded-3 shadow-lg p-4 w-50 form-container">
-    <form #addItemForm="ngForm" (ngSubmit)="addNewItem()">
 
-        <div class="row my-2 p-1">
-            <label class="form-label" for="txtBrand">Brand</label>
-            <input type="text" id="txtBrand" class="form-control" [(ngModel)]="model.brand" name="brand">
+<div class="container-fluid">
+    <form [formGroup]="form" (ngSubmit)="onSubmit()">
+        <div class="mb-3">
+            <label class="form-label">Brand</label>
+            <input class="form-control" formControlName="Brand">
         </div>
-        <div class="row my-2 p-1">
-            <label class="form-label" for="">Name</label>
-            <input type="text" class="form-control" [(ngModel)]="model.name" name="name">
+        <div class="mb-3">
+            <label class="form-label">Name</label>
+            <input class="form-control" formControlName="Name">
         </div>
-        <div class="row my-2 p-1">
-            <label class="form-label" for="">Type</label>
-            <select name="" id="" class="form-select" [(ngModel)]="model.type" name="type">
-                <option selected>--Select Type--</option>
-                <option value="1">AV Receiver</option>
-                <option value="2">Tower Speaker</option>
-                <option value="3">Centre Speaker</option>
-                <option value="4">Bookshelf Speaker</option>
-                <option value="5">Subwoofer</option>
+        <div class="mb-3">
+            <label class="form-label">Item Type</label>
+            <select class="form-select" name="" id="ItemType" formControlName="ItemType">
+                <option value="">---Select an item type---</option>
+                @for (item of itemTypesList; track $index)
+                {
+                <option [value]="item"> {{item}} </option>
+                }
             </select>
         </div>
-        <div class="row my-2 p-1">
-            <label class="form-label" for="">Description</label>
-            <textarea name="" class="form-control" id="txtDescription" [(ngModel)]="model.description" name="description"></textarea>
+        <div class="mb-3">
+            <label class="form-label">Description</label>
+            <textarea class="form-control" formControlName="Description">
+
+            </textarea>
         </div>
-        <div class="row my-2 p-1">
-            <label class="form-label" for="">Price</label>
-            <input type="number" class="form-control" [(ngModel)]="model.price" name="price">
+        <div class="mb-3">
+            <label class="form-label">Price</label>
+            <input type="number" class="form-control" formControlName="Price">
         </div>
-        <div class="mt-3 clearfix">
-            <button type="reset" class="btn btn-secondary float-start">Reset Form</button>
-            <button type="submit" class="btn btn-primary float-end">Add New Item</button>
-        </div>
+        <button type="submit" class="btn btn-primary">Submit</button>
     </form>
 </div>

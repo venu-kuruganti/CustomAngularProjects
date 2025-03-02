@@ -17,7 +17,7 @@ namespace AudioItemsWebAPI.Controllers
 
         [HttpPost]
         [Route("~/api/AddNewAudioItem")]
-        public async Task<bool> AddNewAudioItem(AudioItem item)
+        public async Task<bool> AddNewAudioItem([FromBody] AudioItem item)
         {
             return await repository.AddAudioItem(item);
         }

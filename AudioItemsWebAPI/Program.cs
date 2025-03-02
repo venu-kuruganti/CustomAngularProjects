@@ -5,6 +5,7 @@ using AudioItemsWebAPI.DBInterfaces;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.SqlServer;
 using System.Data;
+using System.Text.Json.Serialization;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -17,6 +18,12 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddDbContext<AudioItemsContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("MyConnectionString")));
 builder.Services.AddScoped<IAudioItemsRepository, AudioItemsRepository>();
 builder.Services.AddCors();
+builder.Services.AddControllers()
+    .AddJsonOptions(opts =>
+    {
+        opts.JsonSerializerOptions.Converters.Add(new JsonStringEnumConverter());
+
+    });
 
 var app = builder.Build();
 
