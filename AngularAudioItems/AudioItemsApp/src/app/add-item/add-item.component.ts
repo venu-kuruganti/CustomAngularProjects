@@ -2,6 +2,7 @@ import { Component, inject, OnInit } from '@angular/core';
 import { AudioItemsService } from '../_services/audioitemsservice.service';
 import { AudioItem, ItemTypes } from '../_models/AudioItem';
 import { FormControl, FormGroup, ReactiveFormsModule } from '@angular/forms';
+import { ActivatedRoute, Router } from '@angular/router';
 
 @Component({
   selector: 'app-add-item',
@@ -16,23 +17,45 @@ export class AddItemComponent implements OnInit {
   itemTypesList?: string[];
   model?: AudioItem;
   form!: FormGroup;
+  title: string;
+  id?: number;
 
   ngOnInit(): void {
     this.form = new FormGroup({
-      ItemType: new FormControl(''),
-      Brand: new FormControl(''),
-      Name: new FormControl(''),
-      Description: new FormControl(''),
-      Price: new FormControl('')
+      itemType: new FormControl(''),
+      brand: new FormControl(''),
+      name: new FormControl(''),
+      description: new FormControl(''),
+      price: new FormControl('')
     });
+
+    this.title = '';
     this.itemTypesList = [];
     this.loadItemTypesList();
+    this.loadData();
   }
 
-  constructor() {
+  constructor(private router: Router, private activatedRoute: ActivatedRoute) { }
 
-    console.log("itemTypesList is : ");
-    console.log(this.itemTypesList);
+  loadData() {
+    var idParam = this.activatedRoute.snapshot.paramMap.get('id');
+    this.id = idParam ? +idParam : 0;
+
+    if (this.id) {
+      this.audioItemsService.getAudioItemDetailsById(this.id)
+        .subscribe({
+          next: (item) => {
+            this.model = item;
+            
+            this.title = "Edit - " + this.model.name;            
+
+            this.form.patchValue(this.model);
+          }
+        });
+    }//end of if
+    else {
+      this.title = "Create a new Audio Item";
+    }//End of else
   }
 
   loadItemTypesList() {
@@ -45,15 +68,24 @@ export class AddItemComponent implements OnInit {
   }
 
   onSubmit() {
-    this.model = <AudioItem>{};
-    this.model.id = 0;
-    this.model.itemType = this.form.controls['ItemType'].value;
-    this.model.name = this.form.controls['Name'].value;
-    this.model.brand = this.form.controls['Brand'].value;
-    this.model.description = this.form.controls['Description'].value;
-    this.model.price = +this.form.controls['Price'].value;
+    var audioItem = (this.id) ? this.model : <AudioItem>{};
+    if (audioItem) {
+      audioItem.itemType = this.form.controls['itemType'].value;
+      audioItem.name = this.form.controls['name'].value;
+      audioItem.brand = this.form.controls['brand'].value;
+      audioItem.description = this.form.controls['description'].value;
+      audioItem.price = +this.form.controls['price'].value;      
 
-    this.audioItemsService.addNewAudioItem(this.model);
+      if (this.id) { //Existing audio item so edit mode
+        this.audioItemsService.updateAudioItem(audioItem, this.id);
+      }
+      else {        
+        this.audioItemsService.addNewAudioItem(audioItem);
+      }      
+    }//end of if
+
+    this.router.navigate(['/home']);
+    
   }
 
 }

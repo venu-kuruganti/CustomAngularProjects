@@ -8,6 +8,8 @@ namespace AudioItemsWebAPI.DBInterfaces.Interfaces
 
         Task<bool> AddAudioItem(AudioItem item);
 
+        Task<bool> UpdateAudioItem(AudioItem item, int id);
+
         Task<bool> DeleteAudioItem(int id);
 
         Task<AudioItem> GetAudioItemDetailsById(int id);

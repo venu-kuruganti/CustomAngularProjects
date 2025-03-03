@@ -21,6 +21,8 @@
     <td>{{item.description}} </td>
     <td>{{item.price}} </td>
     <td><a href="#" [routerLink]="['/details/', item.id]" routerLinkActive="router-link-active" class="link-primary" >Details</a></td>
+    <td><a href="#" [routerLink]="['/additem/', item.id]" routerLinkActive="router-link-active" class="link-primary" >Edit</a></td>
+    <td><button class="btn btn-danger" (click)="openConfirmModal(item.id)">Remove</button></td>
 </tr>
     }
 </table>

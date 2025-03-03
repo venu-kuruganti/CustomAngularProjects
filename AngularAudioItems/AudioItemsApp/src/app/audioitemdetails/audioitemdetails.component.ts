@@ -22,8 +22,7 @@ export class AudioItemDetailsComponent implements OnInit {
     this._route.params.subscribe(params => {
       this.audioItemId = params['id']
     });
-
-    console.log("Id is : " +  this.audioItemId);
+   
     this.loadDetails(this.audioItemId);
   }
 

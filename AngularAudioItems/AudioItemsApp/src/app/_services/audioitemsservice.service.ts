@@ -13,21 +13,18 @@ export class AudioItemsService {
   private http = inject(HttpClient);
 
   getAudioItems() {
-    return this.http.get<AudioItem[]>(this.baseUrl + 'AudioItems');
+    return this.http.get<AudioItem[]>(`${this.baseUrl}AudioItems`);
   }
 
   getAudioItemDetailsById(id: number) {
-    return this.http.get<AudioItem>(this.baseUrl + 'GetAudioItemDetailsById?id=' + id)
+    return this.http.get<AudioItem>(`${this.baseUrl}GetAudioItemDetailsById/${id}`);
   }
 
-  removeAudioItemById(id: number) {
-    return this.http.post<number>(this.baseUrl + 'DeleteAudioItemById?id=' + id, null);
+  removeAudioItemById(id: number) {    
+    return this.http.post<number>(`${this.baseUrl}DeleteAudioItemById/${id}`, null);
   }
 
   addNewAudioItem(item: AudioItem) {
-
-    
-    console.log(`Model is : ${item}`);
 
     const httpOptions = {
       headers: new HttpHeaders({
@@ -35,13 +32,25 @@ export class AudioItemsService {
       })
     };
 
-    console.log("calling http.post");       
+    this.http.post<AudioItem>(`${this.baseUrl}AddNewAudioItem`, item, httpOptions)
+      .subscribe({
+        next: response => { return true; },
+        error: err => console.error(err)
+      });
+  }
 
-     this.http.post<AudioItem>(`${this.baseUrl}AddNewAudioItem`, item, httpOptions)
-    .subscribe({
-      next: response=> { console.log("Successfully called post! Completed!") },
-      error: err=> console.error(err)
-    });     
+  updateAudioItem(item: AudioItem, id:number) {
+    const httpOptions = {
+      headers: new HttpHeaders({
+        'Content-Type': 'application/json',
+      })
+    };
+
+    this.http.put<AudioItem>(`${this.baseUrl}UpdateAudioItem/${id}`, item, httpOptions)
+      .subscribe({
+        next: response => { return true; },
+        error: err => console.error(err)
+      });
   }
 
   constructor() { }

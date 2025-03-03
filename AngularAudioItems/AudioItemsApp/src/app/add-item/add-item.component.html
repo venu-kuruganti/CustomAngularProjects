@@ -1,18 +1,18 @@
-<h3>Add New Item</h3>
+<h3>{{title}}</h3>
 
 <div class="container-fluid">
     <form [formGroup]="form" (ngSubmit)="onSubmit()">
         <div class="mb-3">
             <label class="form-label">Brand</label>
-            <input class="form-control" formControlName="Brand">
+            <input class="form-control" formControlName="brand">
         </div>
         <div class="mb-3">
             <label class="form-label">Name</label>
-            <input class="form-control" formControlName="Name">
+            <input class="form-control" formControlName="name">
         </div>
         <div class="mb-3">
             <label class="form-label">Item Type</label>
-            <select class="form-select" name="" id="ItemType" formControlName="ItemType">
+            <select class="form-select" name="" id="itemType" formControlName="itemType">
                 <option value="">---Select an item type---</option>
                 @for (item of itemTypesList; track $index)
                 {
@@ -22,13 +22,13 @@
         </div>
         <div class="mb-3">
             <label class="form-label">Description</label>
-            <textarea class="form-control" formControlName="Description">
+            <textarea class="form-control" formControlName="description">
 
             </textarea>
         </div>
         <div class="mb-3">
             <label class="form-label">Price</label>
-            <input type="number" class="form-control" formControlName="Price">
+            <input type="number" class="form-control" formControlName="price">
         </div>
         <button type="submit" class="btn btn-primary">Submit</button>
     </form>

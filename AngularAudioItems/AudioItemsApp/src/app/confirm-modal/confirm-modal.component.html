@@ -1,0 +1,12 @@
+<div class="modal-header">
+    <h5 class="modal-title">Confirmation</h5>
+    <button type="button" class="close" (click)="cancel()">&times;</button>
+  </div>
+  <div class="modal-body">
+    <p>{{ message }}</p>
+  </div>
+  <div class="modal-footer">
+    <button class="btn btn-danger" (click)="confirm()">Yes</button>
+    <button class="btn btn-secondary" (click)="cancel()">No</button>
+  </div>
+  

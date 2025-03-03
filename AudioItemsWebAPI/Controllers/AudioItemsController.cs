@@ -22,15 +22,22 @@ namespace AudioItemsWebAPI.Controllers
             return await repository.AddAudioItem(item);
         }
 
+        [HttpPut]
+        [Route("~/api/UpdateAudioItem/{id}")]
+        public async Task<bool> UpdateAudioItem(int id, [FromBody] AudioItem item)
+        {            
+            return await repository.UpdateAudioItem(item, id);
+        }
+
         [HttpGet]
-        [Route("~/api/GetAudioItemDetailsById")]
+        [Route("~/api/GetAudioItemDetailsById/{id}")]
         public async Task<AudioItem> GetAudioItemDetailsById(int id)
         {
             return await repository.GetAudioItemDetailsById(id);
         }
 
         [HttpPost]
-        [Route("~/api/DeleteAudioItemById")]
+        [Route("~/api/DeleteAudioItemById/{id}")]
         public async Task<bool> DeleteAudioItemById(int id)
         {
             return await repository.DeleteAudioItem(id);            
