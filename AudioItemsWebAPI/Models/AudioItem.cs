@@ -11,7 +11,7 @@ namespace AudioItemsWebAPI.Models
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int Id { get; }
 
-        public ItemTypes ItemType { get; set; }
+        public string? ItemType { get; set; }
 
         public string? Brand { get; set; }
 
