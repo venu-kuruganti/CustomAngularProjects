@@ -4,7 +4,8 @@ import { AudioItemsService } from '../_services/audioitemsservice.service';
 import { ActivatedRoute, RouterLink } from '@angular/router';
 import { BsModalService, BsModalRef } from 'ngx-bootstrap/modal';
 import { ConfirmModalComponent } from '../confirm-modal/confirm-modal.component';
-import { BrowserAnimationsModule } from '@angular/platform-browser/animations'; 
+import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+import { DetailsModalComponent } from '../details-modal/details-modal.component';
 
 
 @Component({
@@ -29,12 +30,18 @@ export class HomeComponent implements OnInit {
     });
   }
 
-  openConfirmModal(id:number) {
+  openDetailsModal(id: number) {
+    this.bsModalRef = this.modalService.show(DetailsModalComponent, {
+      initialState: { Id: id }
+    });
+  }
+
+  openConfirmModal(id: number) {
     this.bsModalRef = this.modalService.show(ConfirmModalComponent);
     this.bsModalRef.content.message = "Do you really want to delete this item?";
     this.bsModalRef.content.onConfirm = () => {
       console.log("User clicked Yes");
-     this.deleteAudioItem(id);
+      this.deleteAudioItem(id);
     };
     this.bsModalRef.content.onCancel = () => {
       console.log("User clicked No");
@@ -47,7 +54,7 @@ export class HomeComponent implements OnInit {
     });
   }
 
-  constructor(private route: ActivatedRoute, private modalService: BsModalService) { 
+  constructor(private route: ActivatedRoute, private modalService: BsModalService) {
 
   }
 }

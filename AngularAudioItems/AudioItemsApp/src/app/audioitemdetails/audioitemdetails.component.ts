@@ -11,7 +11,7 @@ import { ActivatedRoute } from '@angular/router';
   styleUrl: './audioitemdetails.component.css'
 })
 export class AudioItemDetailsComponent implements OnInit {
-  audioItemId: number;
+  @Input({ required: true }) audioItemId!: number;
   private audioItemsService = inject(AudioItemsService);
   private route = inject(ActivatedRoute);
   item: AudioItem;
@@ -19,10 +19,6 @@ export class AudioItemDetailsComponent implements OnInit {
   constructor(private _route: ActivatedRoute) { }
 
   ngOnInit(): void {
-    this._route.params.subscribe(params => {
-      this.audioItemId = params['id']
-    });
-   
     this.loadDetails(this.audioItemId);
   }
 

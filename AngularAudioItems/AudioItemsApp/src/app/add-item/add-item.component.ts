@@ -3,11 +3,12 @@ import { AudioItemsService } from '../_services/audioitemsservice.service';
 import { AudioItem, ItemTypes } from '../_models/AudioItem';
 import { FormControl, FormGroup, ReactiveFormsModule } from '@angular/forms';
 import { ActivatedRoute, Router } from '@angular/router';
+import { FileUploadComponent } from '../file-upload/file-upload.component';
 
 @Component({
   selector: 'app-add-item',
   standalone: true,
-  imports: [ReactiveFormsModule],
+  imports: [ReactiveFormsModule, FileUploadComponent],
   templateUrl: './add-item.component.html',
   styleUrl: './add-item.component.css'
 })
@@ -26,7 +27,8 @@ export class AddItemComponent implements OnInit {
       brand: new FormControl(''),
       name: new FormControl(''),
       description: new FormControl(''),
-      price: new FormControl('')
+      price: new FormControl(''),
+      fileData: new FormControl(null)
     });
 
     this.title = '';
@@ -36,6 +38,10 @@ export class AddItemComponent implements OnInit {
   }
 
   constructor(private router: Router, private activatedRoute: ActivatedRoute) { }
+
+  onFileReceived(byteArray: Uint8Array | null) {
+    this.form.get('fileData')?.setValue(byteArray ? Array.from(byteArray) : null);
+  }
 
   loadData() {
     var idParam = this.activatedRoute.snapshot.paramMap.get('id');
